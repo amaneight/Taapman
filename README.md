@@ -1,7 +1,13 @@
+# App Info
+App name: Taapman
+Platform: Android
+Version: 25.3.1
+Open API used: Openweathermap (Source: www.openweathermap.org)
+
 # Taapman
 Taapman in Hindi language means Temperature. 
 This is an andorid application with minimalistic design that shows real time tempearture of your current location.
-This android application shows temperature of your current location. The app detects your current coordinates, sends it to open weather API and fetches the last recorded temperature.
+The app detects your current coordinates, sends it to Openweathermap API and fetches the last recorded temperature.
 
 ## Screenshots
 
