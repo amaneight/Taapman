@@ -1,8 +1,8 @@
 # App Info
-App name: Taapman
-Platform: Android
-Version: 25.3.1
-Open API used: Openweathermap (Source: www.openweathermap.org)
+* App name: Taapman
+* Platform: Android
+* Version: 25.3.1
+* Open API used: Openweathermap (Source: www.openweathermap.org)
 
 # Taapman
 Taapman in Hindi language means Temperature. 
